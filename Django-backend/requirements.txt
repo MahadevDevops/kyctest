@@ -1,4 +1,4 @@
-Django==2.2
+Django==2.2.28
 pandas==0.24.2
 django_rest_framework_mongoengine==3.3.1
 mongoengine==0.17.0
